@@ -1,3 +1,6 @@
 one -- 1
 
-hello bangla
+<<<<<<< HEAD
+
+bangla
+>>>>>>> staging
